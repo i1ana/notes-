@@ -1,0 +1,18 @@
+/*//class is most important part of example that is the BOOTSTRAP 
+
+//Need 12 columns to add up to 100% 
+	// col-<SCREEN SIZ> - <NUMBER OF COLUMNS> */
+
+
+.honeydew{
+	background-color: honeydew; 
+}
+
+.red { 
+	background-color: red; 
+
+}
+
+.limegreen {
+	background-color: limegreen; 
+}
